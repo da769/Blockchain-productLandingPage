@@ -1,0 +1,14 @@
+.Button{
+    /* flex-direction: center; */
+    background-color: blue;
+    color: black;
+    border: 2px solid;
+    text-align: center;
+    position: center;
+}
+
+.Header {
+    position: relative;
+    font-size: larger;
+
+}
